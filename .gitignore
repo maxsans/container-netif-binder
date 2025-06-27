@@ -1,0 +1,18 @@
+
+# Logs
+*.log
+
+# Backup & temp files
+*.tmp
+*.bak
+*~
+
+# macOS
+.DS_Store
+
+# Linux namespace links
+/var/run/netns/*
+
+# Editor folders
+.vscode/
+.idea/
